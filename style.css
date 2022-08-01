@@ -109,11 +109,11 @@
         height: fit-content;
     }
     .preview-card {
-        width: 50%;
+        width: 80%;
         flex-direction:column;
     }
     .learn-more-btn {
-        width: 50%;
+        width: 80%;
     }
     .text {
         margin-bottom: 1rem;
